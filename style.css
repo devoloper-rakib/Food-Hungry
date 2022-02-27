@@ -1,0 +1,19 @@
+.height{
+  height: 80vh;
+}
+li,a {
+  list-style-type:none;
+  text-decoration: none;
+}
+.round_bottom{
+  border-radius: 35px;
+  outline: none;
+}
+.round-content{
+  border-radius: 0 0 35px 35px;
+}
+
+.height1{
+  
+  height: 40vh;
+}
